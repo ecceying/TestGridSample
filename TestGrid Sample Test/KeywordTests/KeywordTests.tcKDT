@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<child name="LoginWager" key="{BF6F00E2-A2E0-45EB-A30A-E12E0D97FE33}" path="LoginWager.tcKDTest" />
+	</children>
+</Root>
