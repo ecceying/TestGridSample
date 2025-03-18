@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{AC45475B-EE7E-4C27-B7A3-1FE8B9F63485}">
+	<children>
+		<child name="TestGrid Sample Test" key="{3D529A9A-A90D-4600-9EAA-94B78D1B000C}" path="TestGrid Sample Test\TestGrid Sample Test.mds" />
+	</children>
+	<testItems key="{E72BD485-DD60-418B-AE8E-86C0AC01EDA6}">
+		<children>
+			<testItem key="{3D529A9A-A90D-4600-9EAA-94B78D1B000C}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{155D7EC9-4CE4-4BD6-81B5-723BF58BB1DE}" />
+	<analysis key="{1D98A9BC-BB0A-46F9-941F-5F2407206A9A}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>
